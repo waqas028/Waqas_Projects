@@ -29,6 +29,7 @@ For more information or to discuss potential collaborations, feel free to reach 
 - 📫 How to reach me: waqaswaseem679@gmail.com
 - 👨‍💻 All of my projects are available at [https://github.com/waqas028](https://github.com/waqas028)
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-waqas-4399361a3](https://www.linkedin.com/in/muhammad-waqas-4399361a3)
+  
 Thank you for visiting my personal projects portfolio!
 
 ## All Projects
