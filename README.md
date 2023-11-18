@@ -25,16 +25,16 @@ Welcome to my personal projects portfolio, where you'll find a diverse collectio
 
 ## Contact
 
-For more information or to discuss potential collaborations, feel free to reach out to me at [email address].
-
+For more information or to discuss potential collaborations, feel free to reach out to me.
+- 📫 How to reach me: waqaswaseem679@gmail.com
+- 👨‍💻 All of my projects are available at [https://github.com/waqas028](https://github.com/waqas028)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-waqas-4399361a3](https://www.linkedin.com/in/muhammad-waqas-4399361a3)
 Thank you for visiting my personal projects portfolio!
 
 ## All Projects
 ## ZipFixers
 
 🏠 Introducing ZipFixer App - Revolutionizing Home Services! 🛠️📲
-
-Link: https://play.google.com/store/apps/details?id=zipfixers.homeservices.handymenrepairs.plumberservices
 
 🔧 Excited to share that I'll be leading the development of a ZipFixer App for our USA-based client at MK Smart Technology! 🇺🇸✨
 
@@ -45,6 +45,9 @@ Link: https://play.google.com/store/apps/details?id=zipfixers.homeservices.handy
 💼 For service providers, ZipFixer opens up a world of opportunities, enabling them to showcase their expertise and connect with users seeking their services. It's a win-win, fostering a strong sense of community and convenience.
 
 🌟 Stay tuned as we bring this innovative platform to life, enhancing home services for everyone!
+
+Link: https://play.google.com/store/apps/details?id=zipfixers.homeservices.handymenrepairs.plumberservices
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/e619a1a9-e87d-4043-8bdd-d799c00af818" width="300" height="600">
   <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/4ea67f79-0868-4591-9359-1d441faada9d" width="300" height="600">
