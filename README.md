@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad waqas</h1>
+![image](https://github.com/waqas028/Waqas_Projects/assets/96041723/dd6b48f5-3724-4aae-951d-c81911c42004)<h1 align="center">Hi 👋, I'm Muhammad waqas</h1>
 <h3 align="center">A passionate Android developer from Pakistan</h3>
 
 # My Personal Projects Portfolio
@@ -127,7 +127,45 @@ Convenient Mobile Content Sharing: Effortlessly share your mobile screen with fr
 
 Overall, this screen mirroring app stands out as a valuable tool for both personal and professional use, bridging the gap between mobile and larger display devices.📱 Screen Mirroring App Project at MK Smart Technology ✨ Successfully completed the development of a cutting-edge Screen Mirroring App at MK Smart Technology. Empowering users to seamlessly share their mobile screens on TVs, LEDs, and large displays. The app also features web browser URL sharing for versatile screen casting. 🚀 It seamlessly casts the mobile screen onto the desired display, enabling users to enjoy their mobile content on a larger screen. Additionally, the app offers a unique feature that lets users share their screen using a web browser URL, allowing them to cast their mobile screen onto any device with a web browser. Developed by MK Smart Technology, this user-friendly screen mirroring app has revolutionized the way users share their mobile content. With its intuitive interface and powerful features, the app caters to a wide range of users, from casual smartphone users to professionals who need to present their mobile work on larger screens. Key Features: Effortless Screen Mirroring: Seamlessly cast your mobile screen onto TVs, LEDs, and other displays. Web Browser URL Sharing: Share your mobile screen using a web browser URL, allowing casting onto any device with a web browser. Universal Compatibility: Compatible with a wide range of mobile devices and display types. Benefits: Enhanced Entertainment: Enjoy your mobile content on a larger screen for an immersive viewing experience. Efficient Collaboration: Share presentations, videos, and other mobile content with colleagues or clients during meetings. Convenient Mobile Content Sharing: Effortlessly share your mobile screen with friends and family on larger displays. Overall, this screen mirroring app stands out as a valuable tool for both personal and professional use, bridging the gap between mobile and larger display devices.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="" width="300" height="600">
-  <img src="" width="300" height="600">
-  <img src="" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/136800a2-5244-4c99-9f85-d919774f68e9" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/75b689e5-039e-4d24-8433-277095b01cdb" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/d16937af-9683-44d2-86e2-7d142a11ad2b" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/d9ee297e-26c9-4a84-b3fe-fbc64df72ef6" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/82e36816-1fe2-4bee-9dfc-d8bbe8d88f18" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/15764486-cd98-43f5-a9c4-b62c3d4ac159" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/cc52dc69-0366-4b0d-b521-c8923a6ec50a" width="300" height="600">
+</div>
+
+## Ask Me Anything- Ai Chat Bot
+🤖 Thrilled to announce my latest venture at MK Smart Technology: an Ask Me Anything AI Chatbot! 🚀
+
+🗣️ Leveraging the power of MVVM architecture and the efficiency of Coroutines and Flow, we're building an intuitive chatbot that answers your questions, anytime, anywhere. With Hilt for seamless dependency injection, we ensure a robust, scalable, and maintainable codebase. 💡
+
+💳 With in-app purchases seamlessly integrated, users will have the opportunity to unlock premium features and elevate their interactions with the chatbot. Users can enjoy both light and dark mode experiences, enhancing accessibility and user satisfaction. 🌗
+
+🌐 The chatbot boasts a responsive design, adapting flawlessly to various devices for an engaging user experience.
+
+💬 Whether you're curious about tech, life, or the universe, our chatbot is here to engage and enlighten! Stay tuned as we unveil this exciting project, showcasing innovation at its best. 🌟
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/cc42cc96-93a6-4da4-8e2b-a4f5efff85ac" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/183dca3f-49ed-4dc9-899d-5f3241e2aa41" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/282fa1be-7362-4f16-9cbb-7e4d1bd8ab54" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/0d585ecf-8522-451c-a6a3-560ff43e446a" width="300" height="600">
+</div>
+
+## Fast Speed Test
+🚀 Excited to announce my latest project at MK Smart Technology: a lightning-fast Speed Test App built with Jetpack Compose, MVVM, DI(Hilt), and cutting-edge Android technology! 📱⚡
+
+🔍 Leveraging the power of Jetpack Compose, I've crafted an intuitive and sleek UI for an enhanced user experience. The app allows users to test their internet speed seamlessly, providing real-time insights into download and upload speeds. 🌐💨
+
+🛠️ This project has provided an opportunity to utilize the latest advancements in Android development, ensuring optimal performance and integration of modern features. It's a testament to our commitment to staying at the forefront of technology and delivering high-quality solutions to our users. 💡
+
+🌟 Stay tuned for the official launch in just 2 weeks! 🚀
+
+App Link: https://play.google.com/store/apps/details?id=com.fast.fasttest.fastspeed.fastnet
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/eb2d2bf8-1d56-46f6-b4b5-2f24452be0af" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/c494b290-7535-41ef-ba21-62c5844ddcbd" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/4cb13e6d-5c35-4b8f-b91c-368031547685" width="300" height="600">
 </div>
