@@ -45,3 +45,89 @@ Link: https://play.google.com/store/apps/details?id=zipfixers.homeservices.handy
 💼 For service providers, ZipFixer opens up a world of opportunities, enabling them to showcase their expertise and connect with users seeking their services. It's a win-win, fostering a strong sense of community and convenience.
 
 🌟 Stay tuned as we bring this innovative platform to life, enhancing home services for everyone!
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/e619a1a9-e87d-4043-8bdd-d799c00af818" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/4ea67f79-0868-4591-9359-1d441faada9d" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/6fb452b2-9eed-4632-a4f9-a424ae436ae6" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/de16c3ef-e6d7-4536-b1bd-b189496429af" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/3060032e-b658-4d14-b76e-8a4ad4f98933" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/2022022f-2c74-4a31-b087-10f0ff8ece75" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/a0b01c41-85e3-4d3b-b8ae-af6f8cfde567" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/dc5d0ad1-4684-4096-bf81-423cf523630e" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/124d7334-a174-4a6d-a2c5-1f4f883d3541" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/a835d45c-c677-4e97-bdd3-049bde1cf368" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/2a44ee65-ebce-4f9a-840c-9fd0ca952c94" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/5e7d8b3e-4ee9-45e9-9c45-3013f061671b" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/5b269ffd-327a-4ad0-a3c0-a6ac6d843691" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/e9d3afbe-e3a6-465b-b057-560fc5a0e14f" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/a1e3275b-bf56-4d74-8c85-6c2c4b3fa676" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/339cec23-9f24-4cef-a6f0-71eb9491cd40" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/e520f4b4-2600-464a-884f-5289e7d405dc" width="300" height="600">
+</div>
+
+## Home Service App
+Developed an Android app that provides home services such as home cleaning, cooking, baby care, and cloth washing using Kotlin and Firebase. The app consists of two parts: a user app and an admin app. The user app allows users to easily book and manage home services. The admin app allows administrators to manage maids, bookings, and payments.
+
+The app uses Firebase for database, login/signup authentication, and FCM messaging notifications.
+
+In my Home Service Android application, I embarked on a mission to provide convenient and reliable home services, encompassing an array of essential tasks such as home cleaning, cooking, baby care, and cloth washing. This project not only streamlined domestic chores but also incorporated a robust technology stack.
+
+Key highlights of this venture included leveraging Firebase for a secure and efficient database, seamlessly integrating Firebase Authentication for user sign-up and login, and harnessing the power of Firebase Cloud Messaging (FCM) for real-time message notifications. The result is a user-friendly and indispensable tool that enhances the quality of daily life by simplifying the procurement of home services through the seamless fusion of technology and convenience.
+
+Developed an Android app that provides home services such as home cleaning, cooking, baby care, and cloth washing.
+Developed an admin app that allows administrators to manage maids, bookings, and payments.
+Used Kotlin for development and Firebase for database, login/signup authentication, and FCM messaging notifications.
+Implemented a user-friendly interface that allows users to easily book and manage home services.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/757e611a-abb7-4ae1-8860-4bcee6058aaf" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/81f11760-0c0c-4c4a-9221-6a4e18cfeb02" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/7cf67e36-98cf-41c9-9712-37d6c2fd73de" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/3df0c217-8360-461a-b943-6e1dc54b09c9" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/5e75313f-dddd-4e3b-9675-2a1eba218359" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/fd3ebc29-c761-485e-988f-fc73bd6eb03d" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/4ccc6ab3-819b-4789-99e3-a48b02c3a100" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/429e8616-2743-4ce9-b180-a0488f22a874" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/30e38066-8955-4e6f-adf8-e3910546dc55" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/749c33fc-35f9-455e-a7de-541ad6932141" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/a66c62c6-f524-4f43-a395-02cdec6c2625" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/64e7b81e-5413-4245-be39-bc3a3ca2d038" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/d8898ecb-dddd-43bf-8af0-3578ddc4e2ff" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/5f4967d0-d71a-417d-a556-d5628fdcd1f9" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/22be178d-9742-43b1-82bd-72f8ae363c82" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/52b51b41-5c19-4edb-a2b9-cd51c3b3e018" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/de54266f-56ec-4b1b-91c4-4488f17f0681" width="300" height="600">
+</div>
+
+## Screen Mirroring
+
+📱 Screen Mirroring App Project at MK Smart Technology
+
+✨ Successfully completed the development of a cutting-edge Screen Mirroring App at MK Smart Technology. Empowering users to seamlessly share their mobile screens on TVs, LEDs, and large displays. The app also features web browser URL sharing for versatile screen casting. 🚀
+
+It seamlessly casts the mobile screen onto the desired display, enabling users to enjoy their mobile content on a larger screen. Additionally, the app offers a unique feature that lets users share their screen using a web browser URL, allowing them to cast their mobile screen onto any device with a web browser.
+
+Developed by MK Smart Technology, this user-friendly screen mirroring app has revolutionized the way users share their mobile content. With its intuitive interface and powerful features, the app caters to a wide range of users, from casual smartphone users to professionals who need to present their mobile work on larger screens.
+
+Key Features:
+
+Effortless Screen Mirroring: Seamlessly cast your mobile screen onto TVs, LEDs, and other displays.
+
+Web Browser URL Sharing: Share your mobile screen using a web browser URL, allowing casting onto any device with a web browser.
+
+Universal Compatibility: Compatible with a wide range of mobile devices and display types.
+
+Benefits:
+
+Enhanced Entertainment: Enjoy your mobile content on a larger screen for an immersive viewing experience.
+
+Efficient Collaboration: Share presentations, videos, and other mobile content with colleagues or clients during meetings.
+
+Convenient Mobile Content Sharing: Effortlessly share your mobile screen with friends and family on larger displays.
+
+Overall, this screen mirroring app stands out as a valuable tool for both personal and professional use, bridging the gap between mobile and larger display devices.📱 Screen Mirroring App Project at MK Smart Technology ✨ Successfully completed the development of a cutting-edge Screen Mirroring App at MK Smart Technology. Empowering users to seamlessly share their mobile screens on TVs, LEDs, and large displays. The app also features web browser URL sharing for versatile screen casting. 🚀 It seamlessly casts the mobile screen onto the desired display, enabling users to enjoy their mobile content on a larger screen. Additionally, the app offers a unique feature that lets users share their screen using a web browser URL, allowing them to cast their mobile screen onto any device with a web browser. Developed by MK Smart Technology, this user-friendly screen mirroring app has revolutionized the way users share their mobile content. With its intuitive interface and powerful features, the app caters to a wide range of users, from casual smartphone users to professionals who need to present their mobile work on larger screens. Key Features: Effortless Screen Mirroring: Seamlessly cast your mobile screen onto TVs, LEDs, and other displays. Web Browser URL Sharing: Share your mobile screen using a web browser URL, allowing casting onto any device with a web browser. Universal Compatibility: Compatible with a wide range of mobile devices and display types. Benefits: Enhanced Entertainment: Enjoy your mobile content on a larger screen for an immersive viewing experience. Efficient Collaboration: Share presentations, videos, and other mobile content with colleagues or clients during meetings. Convenient Mobile Content Sharing: Effortlessly share your mobile screen with friends and family on larger displays. Overall, this screen mirroring app stands out as a valuable tool for both personal and professional use, bridging the gap between mobile and larger display devices.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="" width="300" height="600">
+  <img src="" width="300" height="600">
+  <img src="" width="300" height="600">
+</div>
