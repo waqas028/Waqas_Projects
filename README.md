@@ -69,6 +69,35 @@ Link: https://play.google.com/store/apps/details?id=zipfixers.homeservices.handy
   <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/e520f4b4-2600-464a-884f-5289e7d405dc" width="300" height="600">
 </div>
 
+## Speed Test App
+As part of my tenure at MK Smart Technology, I spearheaded the development of a cutting-edge Speed Test App, leveraging the latest advancements in Android technology. Developed a high-performance speed test application using modern Android technologies, including MVVM architecture, Coroutines for asynchronous task management, LiveData for real-time data updates, and Flow for efficient data streams.The application enables users to:
+
+- Measure their internet speed: Assess their download and upload speeds with accuracy. Users can 
+ perform real-time internet speed tests, providing accurate insights into their network performance.
+- Results are presented in a user-friendly format, including download and upload speeds.
+- Save speed test history: Track past speed test results for analysis and comparison.
+- Visualize Wi-Fi connection on the map: Locate nearby Wi-Fi networks and their signal strength.
+
+### Key Features:
+
+- User-friendly interface: Intuitive design for seamless navigation and speed testing.
+- Data persistence: Offline access to saved speed test results.
+- Real-time updates: Live visualization of internet speed during testing.
+- Location-based Wi-Fi information: Identify nearby Wi-Fi networks and their signal strength.
+
+### Highlights:
+
+- Optimized performance: Efficient utilization of Android SDK components and modern development practices.
+- Robust architecture: MVVM architecture ensures separation of concerns and maintainable codebase.
+- Asynchronous operations: Coroutines handle network requests and database interactions smoothly.
+- Data flow management: LiveData and Flow ensure efficient data delivery and updates.
+
+This Speed Test App not only provides valuable insights into internet speed but also demonstrates my expertise in implementing the latest Android technologies. The inclusion of advanced features like WiFi mapping showcases a commitment to innovation and user-centric design.
+
+### Skills: flow · Room Database · Google Ads · Kotlin Coroutines · Admob · Model-view-viewmodel (MVVM) · Android SDK · Kotlin · Android · Android Development · Android Studio
+
+
+
 ## Home Service App
 Developed an Android app that provides home services such as home cleaning, cooking, baby care, and cloth washing using Kotlin and Firebase. The app consists of two parts: a user app and an admin app. The user app allows users to easily book and manage home services. The admin app allows administrators to manage maids, bookings, and payments.
 
