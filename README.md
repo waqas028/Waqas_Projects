@@ -70,7 +70,7 @@ Link: https://play.google.com/store/apps/details?id=zipfixers.homeservices.handy
 </div>
 
 ## Speed Test App
-As part of my tenure at MK Smart Technology, I spearheaded the development of a cutting-edge Speed Test App, leveraging the latest advancements in Android technology. Developed a high-performance speed test application using modern Android technologies, including MVVM architecture, Coroutines for asynchronous task management, LiveData for real-time data updates, and Flow for efficient data streams.The application enables users to:
+As part of my tenure at MK Smart Technology, I spearheaded the development of a cutting-edge Speed Test App, leveraging the latest advancements in Android technology. Developed a high-performance speed test application using modern Android technologies, including MVVM architecture, Coroutines for asynchronous task management, LiveData for real-time data updates, and Flow for efficient data streams. The application enables users to:
 
 - Measure their internet speed: Assess their download and upload speeds with accuracy. Users can 
  perform real-time internet speed tests, providing accurate insights into their network performance.
