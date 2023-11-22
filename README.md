@@ -94,7 +94,8 @@ As part of my tenure at MK Smart Technology, I spearheaded the development of a 
 
 This Speed Test App not only provides valuable insights into internet speed but also demonstrates my expertise in implementing the latest Android technologies. The inclusion of advanced features like WiFi mapping showcases a commitment to innovation and user-centric design.
 
-### Skills: flow · Room Database · Google Ads · Kotlin Coroutines · Admob · Model-view-viewmodel (MVVM) · Android SDK · Kotlin · Android · Android Development · Android Studio
+### Skills:
+flow · Room Database · Google Ads · Kotlin Coroutines · Admob · Model-view-viewmodel (MVVM) · Android SDK · Kotlin · Android · Android Development · Android Studio
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/5d9f3d19-498d-4e64-83fe-c8d824e0ece3" width="300" height="600">
@@ -106,6 +107,57 @@ This Speed Test App not only provides valuable insights into internet speed but 
   <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/642dfb29-552d-4cd1-b0f8-ffc4d4794a78" width="300" height="600">
   <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/907ea9f3-5eff-4973-bf81-2d05d13d09cc" width="300" height="600">
   <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/c547f14c-b6c0-4469-9803-49a6fc736fbb" width="300" height="600">
+</div>
+
+## 3D Wallpaper App
+
+At MK Smart Technology, I spearheaded the development of a cutting-edge 3D Wallpaper App, combining the latest Android technologies for an immersive and personalized user experience. This MVVM architecture-based application integrates Coroutines, LiveData, Flow, and Room Database, Admob Ads Integration, showcasing a commitment to innovation and user-centric design.
+
+### Key features include:
+
+- Vast 3D Wallpaper Collection: Browse and discover a wide array of stunning 3D wallpapers, categorized 
+  for easy navigation.
+- Personalized Wallpaper Selection: Select and preview 3D wallpapers before applying them to both the 
+ lock screen and home screen.
+- Seamless Wallpaper Adjustment: Adjust the 3D wallpaper's perspective, rotation, and depth to achieve 
+  a perfect fit on any device.
+- Favorite Wallpaper Management: Save and manage favorite wallpapers for quick access and future 
+  reference.
+
+### Technical Stack:
+
+- MVVM Architecture: Employ the MVVM architecture for clean code separation, maintainability, and 
+ testability.
+- Coroutines for Asynchronous Operations: Leverage Coroutines to handle network requests, database 
+ interactions, and 3D rendering tasks efficiently.
+- LiveData for Data Management: Utilize LiveData and Flow to ensure real-time data updates and efficient 
+ data flow between the UI and data sources.
+- Room Database for Wallpaper Persistence: Store favorite wallpapers and user preferences persistently 
+ using Room Database.
+- 3D Rendering Libraries: Integrate advanced 3D rendering libraries to provide high-quality, immersive 3D 
+ wallpapers.
+
+### Highlights:
+
+- Enhanced User Experience: Immerse users in a captivating world of 3D wallpapers.
+- Personalized Wallpaper Settings: Customize 3D wallpapers to match individual preferences and device 
+ compatibility.
+- Modern Android Development Practices: Adhere to modern Android development practices and utilize 
+ the latest technologies.
+
+### Skills: 
+Room Database · Kotlin Coroutines · Android Design · Admob · Mobile Applications · Android Testing · Model-view-viewmodel (MVVM) · Android SDK · Android · Android Development · Android Studio · Mobile Application Development
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/d3af2cd7-5b2d-4317-8720-9f0f114372a5" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/9d6da010-84c3-4df7-906f-a0f02d90d9b0" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/7f928237-d46d-420f-87a7-a5a7f3af2afa" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/4c01de98-c648-4971-b08d-838499a1a671" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/afdc83d1-290f-4a4b-a258-a8c3eccacf5b" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/fd6f8486-4d3e-4b7a-b292-e83f0c718e76" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/72bb128b-0855-4f43-af94-6850ea80fe38" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/7855d3cc-d928-4cb6-a13c-1fc8cd376c0b" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/d863b527-9994-493c-9a69-f4f582a1ddec" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/2284c999-ef59-4879-94e6-57731a4f621c" width="300" height="600">
 </div>
 
 ## Home Service App
