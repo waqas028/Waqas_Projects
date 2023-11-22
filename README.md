@@ -96,7 +96,9 @@ This Speed Test App not only provides valuable insights into internet speed but 
 
 ### Skills: flow · Room Database · Google Ads · Kotlin Coroutines · Admob · Model-view-viewmodel (MVVM) · Android SDK · Kotlin · Android · Android Development · Android Studio
 
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/5d9f3d19-498d-4e64-83fe-c8d824e0ece3" width="300" height="600">
+</div>
 
 ## Home Service App
 Developed an Android app that provides home services such as home cleaning, cooking, baby care, and cloth washing using Kotlin and Firebase. The app consists of two parts: a user app and an admin app. The user app allows users to easily book and manage home services. The admin app allows administrators to manage maids, bookings, and payments.
