@@ -160,6 +160,49 @@ Room Database · Kotlin Coroutines · Android Design · Admob · Mobile Applicat
   <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/2284c999-ef59-4879-94e6-57731a4f621c" width="300" height="600">
 </div>
 
+## All Document Reader App
+At MK Smart Technology, I spearheaded the development of an innovative All Document Reader App, leveraging advanced technologies to provide users with a seamless and feature-rich document management experience. Developed a comprehensive document management application using cutting-edge Android technologies, enabling users to effortlessly access, view, and share various document formats. This MVVM architecture-based application incorporates Coroutines, LiveData, Flow, Room Database, and other cutting-edge elements, showcasing a commitment to modern app development.
+
+### Key features include:
+
+- Unified Document Management: Seamlessly browse and manage a wide range of document formats, 
+ including PDF, DOCX, XLSX, PPTX, and more.
+
+- Streamlined Document Viewing: Enjoy a smooth and intuitive reading experience with advanced 
+ document rendering capabilities.
+
+- Favorited Document Organization: Favorite essential documents for quick and easy access.
+
+- Convenient Sharing Options: Share documents with friends and colleagues via various channels.
+
+- Room Database Integration: Persist on favorite documents and user preferences using Room Database 
+ for reliable data storage.
+
+### Technical Stack:
+
+- MVVM Architecture: Employ MVVM architecture for a clean and maintainable codebase with a clear separation of concerns.
+
+- Coroutines for Asynchronous Operations: Leverage Coroutines to handle file system access, database interactions, and network requests efficiently.
+
+- LiveData and Flow for Data Management: Utilize LiveData and Flow to ensure real-time data updates and efficient data flow between the UI and data sources.
+
+- Room Database for Data Persistence: Store favorite documents and user preferences persistently using Room Database.
+  
+- Android SDK Integration: Adhere to modern Android SDK guidelines and utilize the latest technologies.
+
+### Skills: 
+Room Database · Kotlin Coroutines · Android Design · Admob · Mobile Applications · Android Testing · Model-view-viewmodel (MVVM) · Android SDK · Android · Android Development · Android Studio · Mobile Application Development
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/60bd52c7-57de-4ca6-b9b5-f5f72138d79f" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/c688d033-ccf6-48f9-9bc5-d3d372f2314c" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/90786792-a80d-419f-a602-92ab48fe15ae" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/151e5846-6294-451f-bd59-460c1226c918" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/63c70ebe-37eb-4211-a1bb-6725b3b6ddcf" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/5fff9ea2-e3ed-4ff0-851e-ded3182b821b" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/98fb16b2-d22d-4eb1-9668-3f63f0ac15f5" width="300" height="600">
+</div>
+
+
 ## Home Service App
 Developed an Android app that provides home services such as home cleaning, cooking, baby care, and cloth washing using Kotlin and Firebase. The app consists of two parts: a user app and an admin app. The user app allows users to easily book and manage home services. The admin app allows administrators to manage maids, bookings, and payments.
 
