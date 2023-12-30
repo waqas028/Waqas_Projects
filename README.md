@@ -5,24 +5,6 @@
 
 Welcome to my personal projects portfolio, where you'll find a diverse collection of software projects I've developed over time. These projects represent my passion for coding, my desire to learn new technologies, and my commitment to creating useful and impactful applications. This GitHub repository serves as a comprehensive collection of my personal projects, showcasing my diverse skills and expertise in software development. Each project represents a unique challenge and a testament to my ability to adapt and innovate.
 
-## Projects
-
-* [Project 1: Screen Mirroring App](https://github.com/link-to-project-1)
-  Effortlessly share your mobile device's screen onto TVs, LEDs, and even laptops.
-
-* [Project 2: Voice-Activated Assistant](https://github.com/link-to-project-2)
-  Control your home appliances and access information using voice commands.
-
-* [Project 3: Machine Learning-Powered Recommender System](https://github.com/link-to-project-3)
-  Personalized recommendations based on user preferences and behavior.
-
-## Skills and Technologies
-
-* Programming Languages: Java, Python, Kotlin
-* Frameworks: Spring Boot, React Native
-* Cloud Technologies: AWS, Azure
-* Machine Learning: TensorFlow, PyTorch
-
 ## Contact
 
 For more information or to discuss potential collaborations, feel free to reach out to me.
