@@ -1,4 +1,4 @@
-<img width="361" alt="10258283" src="https://github.com/waqas028/Waqas_Projects/assets/96041723/e11dab4e-1946-40db-942a-68f8d7403d95"><h1 align="center">Hi 👋, I'm Muhammad waqas</h1>
+<h1 align="center">Hi 👋, I'm Muhammad waqas</h1>
 <h3 align="center">A passionate Android developer from Pakistan</h3>
 
 # My Personal Projects Portfolio
