@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad waqas</h1>
+<img width="361" alt="10258283" src="https://github.com/waqas028/Waqas_Projects/assets/96041723/e11dab4e-1946-40db-942a-68f8d7403d95"><h1 align="center">Hi 👋, I'm Muhammad waqas</h1>
 <h3 align="center">A passionate Android developer from Pakistan</h3>
 
 # My Personal Projects Portfolio
@@ -15,6 +15,69 @@ For more information or to discuss potential collaborations, feel free to reach 
 Thank you for visiting my personal projects portfolio!
 
 ## All Projects
+
+## Yilomi Vehicle Tracking App
+
+At MK Smart Technology, I spearheaded the development of the Yilomi app, a cutting-edge Android native application revolutionizing vehicle tracking and fleet management. Leveraging the latest advancements in Kotlin and native Android development, this app seamlessly integrates with the NVIXY platform API, offering unparalleled features and functionalities.
+Key Features:
+
+#### Live Tracking:
+Real-time tracking of diverse vehicles, including trucks, cars, and bikes, ensuring precise location monitoring.
+
+#### Vehicle Details:
+Comprehensive information on selected vehicles, providing users with insights into their status, location history, and relevant details.
+
+#### Telemetry Data:
+Ensures utmost security for cargo, vehicles, and equipment by delivering telemetry data in real-time, allowing for proactive decision-making.
+
+#### Remote Control:
+Remote control capabilities empower users to manage vehicles remotely, enhancing security and control over their assets.
+
+#### Fleet Management:
+Facilitates efficient fleet management through features like MDVR (Mobile Digital Video Recorder), ADAS (Advanced Driver Assistance Systems), and smart maintenance scheduling.
+
+#### Fuel Monitoring:
+Integration of fuel sensors to prevent theft and monitor fuel consumption, contributing to cost-effective and secure fleet operations.
+
+#### Communication Hub:
+Breaks down communication barriers between office and field employees by offering urgent task dispatch, full-featured communication channels, and streamlined digital reporting.
+
+## Technological Stack:
+<b>Language:</b> Kotlin
+
+<b>Architecture:</b> Native Android
+
+<b>API Integration:</b> NVIXY Platform
+
+<b>Advanced Features:</b> MDVR, ADAS, Fuel Sensors
+
+<b>Communication:</b> Real-time Updates, Urgent Task Dispatch
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/9bbee4da-480b-466c-896f-1bbf8c7ee537" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/7d51d2ae-e72d-4e7e-9464-2b6fe092e52c" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/66734fe8-7557-4679-9be3-d39813330c54" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/ef068533-e5e6-43ae-9697-331389273b65" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/bf0e3f9d-af42-4ded-b3b3-ff3c13d08089" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/b5901bba-18ed-4ea8-b8e9-a2c7e4427a9d" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/6bb2a192-8857-4153-81d7-31ea71c06b15" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/ba87436e-de3f-4176-98c5-caa0ab527319" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/9f26c015-7a47-49db-b0df-07c441f91135" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/1b87f64f-1e1e-4e65-8042-cfa332668ca5" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/b7ba5bb1-2729-4248-98b8-f54c63d35b07" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/82f52e9c-518e-43f3-a585-32306ae8091c" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/43feb1e8-a741-4e2b-bb75-9a55ca6fe7ae" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/b0680b0a-7045-4363-b338-abc90830749d" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/39bd2c4e-e063-43f1-b9c1-d96f5b45f01d" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/6e9ed176-11b0-4016-9b5b-9e6526055c37" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/c27d1773-1b6a-4634-bee0-41a43fdc19f5" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/e0ac4657-d862-4f43-96de-69825b019dc6" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/417915a6-6cd3-4e8d-85e1-13f109f08398" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/8e9243b5-6170-4c25-b514-0bbef226628e" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/8097c6d1-2f5f-499a-aa7a-24c2b238fe7b" width="300" height="600">
+  <img src="https://github.com/waqas028/Waqas_Projects/assets/96041723/a7641eec-66d6-4e2f-a840-7f74692f0764" width="300" height="600">
+</div>
+
 ## ZipFixers
 
 🏠 Introducing ZipFixer App - Revolutionizing Home Services! 🛠️📲
