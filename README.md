@@ -9,6 +9,7 @@ Welcome to my personal projects portfolio, where you'll find a diverse collectio
 
 For more information or to discuss potential collaborations, feel free to reach out to me.
 - 📫 How to reach me: waqaswaseem679@gmail.com
+- Google Developer Profile: https://g.dev/MuhammadWaqasDev
 - 👨‍💻 All of my projects are available at [https://github.com/waqas028](https://github.com/waqas028)
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-waqas-4399361a3](https://www.linkedin.com/in/muhammad-waqas-4399361a3)
   
