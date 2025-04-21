@@ -5,6 +5,36 @@
 
 Welcome to my curated portfolio of Android and cross-platform projects — a reflection of my passion for building intuitive, high-performance, and impactful applications. This collection showcases a diverse range of software solutions, from commercial client applications to product-based tools, all crafted with modern development practices.
 
+## 💼 About Me
+
+I'm **Waqas Yaqeen**, a passionate Android Developer focused on building robust, scalable, and visually appealing applications. From building tools and utilities to real-time communication platforms, I specialize in delivering high-performance mobile solutions.
+
+## 🌍 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-waqaswaseem679@gmail.com-red?style=flat&logo=gmail)](mailto:waqaswaseem679@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-waqas-4399361a3)  
+[![GitHub](https://img.shields.io/badge/GitHub-waqas028-black?style=flat&logo=github)](https://github.com/waqas028)  
+[![Skype](https://img.shields.io/badge/Skype-live%3Awaqasyaqeen420-00aff0?style=flat&logo=skype)](https://join.skype.com/invite/p4ckdyAOrsCs)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/+923045593294)  
+[![Google Developer](https://img.shields.io/badge/Google%20Developer-Profile-blue?style=flat&logo=google)](https://g.dev/MuhammadWaqasDev)
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Successfully delivered 50+ client and product-based apps.
+- 🛠 Maintained 100% crash-free ratings in Play Store.
+- 🧠 Contributed to tech learning within teams by leading DSA & OOP discussions.
+- 🧪 Created rapid prototypes in Compose for future product innovation.
+
+---
+
+> 📌 *Each project reflects my commitment to clean code, performance, and user-first design. Open to collaboration and freelance opportunities!*
+
+---
+
+> 🔐 _Note: Some projects shown above are client-based and not open-source. Please reach out if you'd like a detailed walkthrough or demonstration._
+
 ## 📱 Tech Stack
 - `Kotlin`
 - `Jetpack Compose`
@@ -169,34 +199,3 @@ Welcome to my curated portfolio of Android and cross-platform projects — a ref
 **Play Store:** [Speed Test App](https://play.google.com/store/apps/details?id=com.fast.fasttest.fastspeed.fastne)
 
 **Tech Stack:** `Kotlin` · `Jetpack Compose` · `MVVM` · `Coroutines` · `Hilt` · `Android SDK`
-
-
-## 💼 About Me
-
-I'm **Waqas Yaqeen**, a passionate Android Developer focused on building robust, scalable, and visually appealing applications. From building tools and utilities to real-time communication platforms, I specialize in delivering high-performance mobile solutions.
-
-## 🌍 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-waqaswaseem679@gmail.com-red?style=flat&logo=gmail)](mailto:waqaswaseem679@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-waqas-4399361a3)  
-[![GitHub](https://img.shields.io/badge/GitHub-waqas028-black?style=flat&logo=github)](https://github.com/waqas028)  
-[![Skype](https://img.shields.io/badge/Skype-live%3Awaqasyaqeen420-00aff0?style=flat&logo=skype)](https://join.skype.com/invite/p4ckdyAOrsCs)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/+923045593294)  
-[![Google Developer](https://img.shields.io/badge/Google%20Developer-Profile-blue?style=flat&logo=google)](https://g.dev/MuhammadWaqasDev)
-
----
-
-## 🏆 Achievements
-
-- 🚀 Successfully delivered 50+ client and product-based apps.
-- 🛠 Maintained 100% crash-free ratings in Play Store.
-- 🧠 Contributed to tech learning within teams by leading DSA & OOP discussions.
-- 🧪 Created rapid prototypes in Compose for future product innovation.
-
----
-
-> 📌 *Each project reflects my commitment to clean code, performance, and user-first design. Open to collaboration and freelance opportunities!*
-
----
-
-> 🔐 _Note: Some projects shown above are client-based and not open-source. Please reach out if you'd like a detailed walkthrough or demonstration._
