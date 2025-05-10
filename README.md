@@ -7,7 +7,7 @@ Welcome to my curated portfolio of Android and cross-platform projects — a ref
 
 ## 💼 About Me
 
-I'm **Waqas Yaqeen**, a passionate Android Developer focused on building robust, scalable, and visually appealing applications. From building tools and utilities to real-time communication platforms, I specialize in delivering high-performance mobile solutions.
+I'm **Muhammad Waqas**, a passionate Android Developer focused on building robust, scalable, and visually appealing applications. From building tools and utilities to real-time communication platforms, I specialize in delivering high-performance mobile solutions.
 
 ## 🌍 Let's Connect
 
