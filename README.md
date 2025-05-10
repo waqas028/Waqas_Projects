@@ -50,6 +50,10 @@ I'm **Muhammad Waqas**, a passionate Android Developer focused on building robus
 
 > A modern Android application that connects users with qualified Muftis for authentic Islamic guidance, religious consultation, and community-driven Q&A.
 
+<a href="https://play.google.com/store/apps/details?id=com.mlbranch.mymufti">
+  <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200"/>
+</a>
+
 ![My Mufti Thumbnail](https://github.com/user-attachments/assets/066dc7cc-ac3f-4239-9603-0b3ac5cfe7b8)
 <img width="1600" alt="My Mufti App Screenshot" src="https://github.com/user-attachments/assets/5d17b997-16a7-4909-b3e6-0850dd95ddad" />
 
@@ -94,7 +98,9 @@ I'm **Muhammad Waqas**, a passionate Android Developer focused on building robus
 ---
 
 ## 🛠️ ZipFixers – Home Services App  
-[📲 Play Store Link](https://play.google.com/store/apps/details?id=zipfixers.homeservices.handymenrepairs.plumberservices)
+<a href="https://play.google.com/store/apps/details?id=zipfixers.homeservices.handymenrepairs.plumberservices">
+  <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200"/>
+</a>
 
 > A location-based marketplace app connecting users with professional home service providers like plumbers, electricians, and HVAC experts.
 
