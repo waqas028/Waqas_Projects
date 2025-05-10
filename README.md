@@ -78,6 +78,49 @@ I'm **Muhammad Waqas**, a passionate Android Developer focused on building robus
 -  `Google Maps API` · `Location Services`
 ---
 
+## 🛍️ Paysano – Social + Shopping Android App
+
+> A feature-rich Android application that blends **social networking**, **restaurant discovery**, and **online shopping** into one seamless experience. Built from scratch to production for **ML Bench**.
+
+<a href="https://play.google.com/store/apps/details?id=com.paysano.app">
+  <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200"/>
+</a>
+
+---
+
+![Paysano App Thumbnail  light](https://github.com/user-attachments/assets/acccf883-b00d-4557-afb0-1722c832279f)
+![WhatsApp Image 2025-02-04 at 8 44 01 PM](https://github.com/user-attachments/assets/264dda37-49f1-4197-b8d4-cc2b9b19943e)
+
+---
+
+### ✨ Highlights:
+- 🌐 **Social Networking** — Connect with friends and share experiences
+- 🍽️ **Restaurant Discovery** — Browse and explore food spots near you
+- 🛒 **Online Shopping** — Shop trending products with a smooth checkout
+- 🔔 **Push Notifications** — Stay updated with offers and order status
+- 💬 **Real-time Chat** — Communicate with users and vendors directly
+- 📦 **Order Tracking** — Track orders and deliveries easily
+- 🔐 **In-App Subscriptions** — Unlock premium features
+- 📱 **Responsive UI** — Optimized for all Android devices
+
+---
+
+### 🛠 Tech Stack:
+- `Kotlin` · `Jetpack Compose` · `MVVM Architecture`  
+- `Hilt` for Dependency Injection  
+- `Firebase` (Auth, Firestore, Cloud Messaging)  
+- `Coroutines` · `Flow` · `Navigation Component`  
+- `Stripe` / `Google Play Billing` for subscriptions  
+- `Glide` / `Coil` for image loading  
+- `Android Studio` · `Material3`
+
+---
+
+### 🚀 From Scratch to Store:
+This project was built from the ground up using **modern Android development practices**. From UI design to real-time data handling and secure payments, every layer was carefully crafted for performance, scalability, and user delight.
+
+---
+
 ## 📍 Yilomi Vehicle Tracking App
 
 > A powerful Android application designed for real-time vehicle tracking, fleet management, and telemetry monitoring. Developed for logistics and fleet companies with integration to NVIXY platform.
