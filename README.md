@@ -41,8 +41,37 @@ I'm **Muhammad Waqas**, a passionate Android Developer focused on building robus
 - `Compose Multiplatform`
 - `MVVM Architecture`
 - `Coroutines` & `Flow`
-- Clean code principles
-- Responsive UI/UX
+- `CI/CD`
+- `Clean code principles`
+- `Responsive UI/UX`
+---
+
+## 🕌 My Mufti – Islamic Guidance App
+
+> A modern Android application that connects users with qualified Muftis for authentic Islamic guidance, religious consultation, and community-driven Q&A.
+
+![My Mufti Thumbnail](https://github.com/user-attachments/assets/066dc7cc-ac3f-4239-9603-0b3ac5cfe7b8)
+<img width="1600" alt="My Mufti App Screenshot" src="https://github.com/user-attachments/assets/5d17b997-16a7-4909-b3e6-0850dd95ddad" />
+
+---
+
+### ✨ Highlights:
+- Connect with registered Muftis globally for 1-on-1 consultation  
+- Real-time **chat support** and **social login** (Google, Facebook, etc.)  
+- **Qibla direction** and **prayer time tracking** based on location  
+- **Appointment booking system** for scheduling sessions  
+- **Events management** for Islamic webinars, talks, and programs  
+- Community-driven **Q&A system** with voting to prioritize important questions  
+- **Stripe integration** for secure payment handling  
+- Available in a user-friendly UI built with **Jetpack Compose**
+
+---
+
+### 🛠 Tech Stack:
+- `Kotlin` · `Jetpack Compose` · `MVVM Architecture`  
+- `Firebase Auth & Firestore` · `Stripe SDK` · `Google Maps API`  
+- `Coroutines` · `Flow` · `Navigation Component`
+-  `Google Maps API` · `Location Services`
 ---
 
 ## 📍 Yilomi Vehicle Tracking App
